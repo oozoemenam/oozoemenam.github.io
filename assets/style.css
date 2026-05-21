@@ -117,7 +117,7 @@ p.intro {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
-	height: 754px;
+	height: 100vh;
 	text-align: center;
 	position: relative;
 }
@@ -126,10 +126,10 @@ p.intro {
 	position: absolute;
 	width: 100%;
 	/* height:100%; */
-	height: 754px;
+	height: 100vh;
 	top: 0;
 	left: 0;
-	box-shadow: 0 754px rgba(0, 0, 0, 0.5) inset;
+	box-shadow: 0 100vh rgba(0, 0, 0, 0.5) inset;
 }
 .description h3 {
 	color: #fff;
